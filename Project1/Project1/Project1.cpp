@@ -233,3 +233,8 @@ void LoadLyrics(int songIndex) {
     }
 }
 
+/*temp comment pls ignore trying to show this idiot how to use sync and push in git.
+Yours Truly
+Randomguy
+(SG)
+ps,please give him full grade, otherwise i'll be sad*/
